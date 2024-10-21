@@ -1,0 +1,16 @@
+# membuat distionary
+my_dist = {
+    "nama"   : "rajwa",
+    "umur"   : 18,
+    "status" : "mahasiswa"
+}
+#mencetak hasil distionary
+print(my_dist["nama"])
+print(my_dist["umur"])
+print(my_dist["status"])
+
+#menambahkan pasangan atau elemen baeru
+my_dist["kabupaten"] = "lombok barat"
+
+#menampilkan hasil setelah di tambahkan
+print(my_dist)
