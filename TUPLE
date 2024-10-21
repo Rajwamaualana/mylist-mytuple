@@ -1,0 +1,8 @@
+#tuple ini gak bisa di ubah
+my_tuple =(1,2,3,4,5, 6)
+
+#mengetahui panjang tuple 
+panjang_my_tuple = len(my_tuple)
+
+#mencetak panjang tuple 
+print ("panjang list :",panjang_my_tuple)
