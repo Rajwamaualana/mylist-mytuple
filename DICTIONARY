@@ -1,0 +1,7 @@
+#inisiasi list
+my_list = ["kelas,a,ti"]
+print("my_list :" ,my_list)
+
+#tambah anggota didalam list
+my_list.append("semangat")
+print("my_list setelah ditambah baru :" ,my_list)
